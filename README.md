@@ -73,10 +73,12 @@ Python Scripts Manager is a native macOS application that streamlines the proces
 
 ### Installation
 
-1. Download the latest release from the releases page
-2. Move the application to your Applications folder
-3. When first launching, you may need to right-click and select "Open" to bypass Gatekeeper
-4. Grant necessary permissions when prompted
+1. Download the .dmg file from the repository
+2. Mount the DMG file by double-clicking it
+3. Drag Python Scripts Manager into your Applications folder
+4. Eject the DMG
+5. When first launching, you may need to right-click and select "Open" to bypass Gatekeeper
+6. Grant necessary permissions when prompted
 
 ## Project Structure
 
